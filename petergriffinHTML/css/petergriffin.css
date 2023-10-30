@@ -1,0 +1,83 @@
+
+@import url(Petergriffinfinished.html);
+
+body{
+    background-image: linear-gradient(to right top, #b4886e, #b37a62, #b26b59, #b05c53, #ad4b50);
+   text-align: center;
+
+
+}
+
+
+p{font-family: 'Quicksand', sans-serif;
+padding: 10px;
+border-radius: 50px;
+text-align: center
+}
+
+
+
+header{
+    background-color:#d8c18f ;
+    
+    margin: auto;
+    text-align: center;
+    padding: 20px;
+    border-radius: 14px;
+}
+
+
+    nav ul{
+        list-style-type: none;
+      
+        padding: 0;
+        overflow: hidden;
+        
+    
+        position: fixed;
+        top: 0;
+      
+
+    }
+
+    
+    nav a, nav a:visited {
+        display: block;
+        padding: 20px;
+        text-align: left;
+        color: #534f4f;
+    }
+    
+       
+   
+
+
+     section {
+        background-color: #d8c18f;
+
+        width:60vw;
+        padding: 20;
+        margin: auto;
+        border-radius: 10px;
+     }
+
+
+     footer{
+        background-color: ; 
+        text-align: center;
+        padding: 20px;
+    }
+    
+
+</section>
+  
+a{
+    color:#575552; 
+    }
+    
+    a:visited{
+        color: rgb(150, 80, 80);
+    }
+    a:hover{
+        color: rgb(126, 113, 196);
+    }
