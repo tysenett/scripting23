@@ -1,0 +1,80 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #0f0f0f;
+  margin: 0;
+  padding: 0;
+}
+
+/* Navigation bar styles */
+.navbar {
+  background-color: #343a40;
+}
+
+.navbar-nav .nav-item {
+  margin-right: 20px;
+}
+
+.navbar-nav .nav-link {
+  color: #ffffff;
+}
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+
+.background-image {
+  width: 100%;
+  height: 100vh; 
+  object-fit: cover; 
+  object-position: center top;
+}
+
+
+#masterhead img {
+  max-width: 100%;
+  height: auto;
+  
+}
+
+/* About section styles */
+section {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: px;
+  background-color: #202020;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(255, 254, 254, 0.1);
+}
+
+h2 {
+ 
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+p {
+
+  font-size: 16px;
+  line-height: 1.5;
+}
+.portfolio-image {
+  width: 100%; 
+  height: auto; 
+  display: block; 
+  margin: 0 auto; 
+  max-width: 100%;
+}
+
+.video-preview {
+  max-width: 50%;
+  height: auto;
+  cursor: pointer;
+  transition: transform 0.2s;
+  
+}
+
+.video-preview:hover {
+  transform: scale(1.05);
+}
+
